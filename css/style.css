@@ -3,9 +3,10 @@
 body{
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	background-image: url(../img/fundo.jpg);
-	background-size: 100%;
+	background-size: 1280px;
 	background-repeat: no-repeat;
 	background-position: center;
+	min-width: 1280px;
 }
 
 
